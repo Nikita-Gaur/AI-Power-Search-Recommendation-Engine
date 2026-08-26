@@ -48,9 +48,9 @@ streamlit run app.py
 
 Then upload `products.csv` and search for products.
 
-## Interview Explanation
+## Project Demo
 
-"I built an AI-powered search and recommendation engine for an e-commerce style use case. The system converts product information and the user's natural-language query into TF-IDF vectors and calculates cosine similarity to measure relevance. I then combine the relevance score with a lightweight user-history personalization signal to rank products. The application is built with Python and Streamlit, with Pandas and Scikit-learn for data processing and machine-learning components."
+![AI-Powered Search & Recommendation Engine](./AI-Power-Search-Recommendation-Engine.png)
 
 ## Future Improvements
 
