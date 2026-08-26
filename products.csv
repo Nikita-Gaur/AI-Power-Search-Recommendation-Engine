@@ -1,0 +1,11 @@
+product_id,product_name,description,category,price,user_id
+1,Noise Cancelling Wireless Headphones,Premium wireless headphones with active noise cancellation and long battery life.,electronics,129,2
+2,Budget Bluetooth Earbuds,Affordable compact Bluetooth earbuds for daily travel and calls.,electronics,39,3
+3,Travel Backpack,Lightweight laptop travel backpack with water resistant material and multiple pockets.,bags,59,4
+4,Running Shoes,Comfortable lightweight running shoes with breathable mesh for daily workouts.,fashion,79,5
+5,Smart Watch,Fitness smartwatch with heart rate tracking GPS and notifications.,electronics,149,1
+6,Laptop Stand,Adjustable ergonomic aluminum laptop stand for office and home use.,electronics,45,2
+7,Mechanical Keyboard,Compact mechanical keyboard for programming gaming and office work.,electronics,89,3
+8,USB C Hub,Multiport USB C hub with HDMI USB and card reader for laptops.,electronics,49,4
+9,Yoga Mat,Non-slip exercise yoga mat with comfortable cushioning.,fitness,29,5
+10,Coffee Maker,Automatic coffee maker for home and office with programmable brewing.,home,99,1
