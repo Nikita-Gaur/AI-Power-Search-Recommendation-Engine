@@ -60,3 +60,11 @@ Then upload `products.csv` and search for products.
 - Train a learning-to-rank model
 - Add FastAPI backend
 - Add A/B testing and offline recommendation metrics
+- 
+## Project Highlights
+
+- Natural-language product search using TF-IDF
+- Cosine similarity based relevance ranking
+- Personalized product recommendations
+- Streamlit-based interactive web interface
+- CSV-based product dataset
