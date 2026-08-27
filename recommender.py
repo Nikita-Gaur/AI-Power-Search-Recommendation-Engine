@@ -24,7 +24,12 @@ class SearchRecommendationEngine:
             df["category"].fillna("").astype(str)
         )
         self.data=df.reset_index(drop=True)
-        self.vectorizer=TfidfVectorizer(stop_words="english", ngram_range=(1,2))
+        self.vectorizer = TfidfVectorizer(
+    stop_words="english",
+    ngram_range=(1, 2),
+    sublinear_tf=True,
+    strip_accents="unicode"
+)
         self.matrix=self.vectorizer.fit_transform(self.data["search_text"])
 
         if "user_id" in df.columns and "product_name" in df.columns:
